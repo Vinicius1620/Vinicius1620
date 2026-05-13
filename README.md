@@ -18,6 +18,9 @@ Busco desafios que me permitam unir meu conhecimento técnico à minha mentalida
   <a href="https://www.instagram.com/viniciusromano__/">
     <img src="https://img.shields.io/badge/viniciusromano__/-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.linkedin.com/in/adson-vinicius/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 </p>
 
 ---
